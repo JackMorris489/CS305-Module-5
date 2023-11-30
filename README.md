@@ -4,7 +4,7 @@
 ## Goals
 - [x] create a README
 - [x] create a licence
-- [x] initiate a pull request
+- [ ] initiate a pull request
 - [ ] allow the pull request
 - [ ] finish the assignment
 

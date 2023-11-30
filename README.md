@@ -5,7 +5,7 @@
 - [x] create a README
 - [x] create a licence
 - [x] initiate a pull request
-- [ ] allow the pull request
+- [x] allow the pull request
 - [ ] finish the assignment
 
 ## License
